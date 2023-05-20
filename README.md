@@ -9,3 +9,7 @@ http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction
 
 
 https://github.com/A-make/awesome-control-theory
+
+
+
+http://www.matthewpeterkelly.com/code/index.html
