@@ -13,3 +13,9 @@ https://github.com/A-make/awesome-control-theory
 
 
 http://www.matthewpeterkelly.com/code/index.html
+
+
+
+
+
+https://resourcium.org/explore
